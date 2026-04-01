@@ -11,10 +11,11 @@ Reusable rules and prompt templates for creating legal content for **Ikerd Law F
 
 | Template | Use For |
 |----------|---------|
-| [Blog Post](prompts/blog-post.md) | Blog articles (1800-2000 words) |
-| [Service Page](prompts/service-page.md) | Practice area and service pages |
-| [FAQ Page](prompts/faq-page.md) | Frequently asked questions sections |
-| [Social Media](prompts/social-media.md) | Facebook, Instagram, LinkedIn, X posts |
+| [Batch Content](prompts/batch-content.md) | **Multiple pieces in one go (recommended)** |
+| [Blog Post](prompts/blog-post.md) | Single blog article (1800-2000 words) |
+| [Service Page](prompts/service-page.md) | Single practice area page |
+| [FAQ Page](prompts/faq-page.md) | Single FAQ section |
+| [Social Media](prompts/social-media.md) | Single social media post |
 
 ## Key Rules (Summary)
 
