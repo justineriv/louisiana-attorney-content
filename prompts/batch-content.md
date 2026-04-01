@@ -38,7 +38,13 @@ For each piece, deliver:
 - Internal links to relevant ikerdlaw.com pages
 - Standard disclaimer
 
-Separate each piece with a clear divider and number matching the list above.
+Save each piece of content as a separate .md file in the output/ folder using this naming convention:
+- Blogs: output/blog-[short-topic-slug].md
+- Service Pages: output/service-[short-topic-slug].md
+- FAQs: output/faq-[short-topic-slug].md
+- Social Media: output/social-[short-topic-slug].md
+
+Each .md file should contain everything for that piece: keywords, full content, meta title, meta description, schema markup, alt text suggestions, internal links, and disclaimer.
 ```
 
 ---
@@ -74,14 +80,10 @@ For each item below, automatically research and determine the best primary keywo
 
 ---
 
-For each piece, deliver:
-- The full content with proper header structure
-- Meta title (under 60 characters)
-- Meta description (150-160 characters with primary keyword and CTA)
-- Schema markup (Article, FAQPage, or LegalService as appropriate)
-- Suggested alt text for any images
-- Internal links to relevant ikerdlaw.com pages
-- Standard disclaimer
-
-Separate each piece with a clear divider and number matching the list above.
+Save each piece of content as a separate .md file in the output/ folder:
+- output/blog-dwi-arrest-louisiana.md
+- output/blog-drug-possession-charges.md
+- output/faq-expungement-louisiana.md
+- output/service-car-accident-injuries.md
+- output/social-traffic-stop-rights.md
 ```
