@@ -9,9 +9,10 @@ Use this prompt to generate a blog post for Ikerd Law Firm.
 ```
 Write a blog post for Ikerd Law Firm (Lafayette, Louisiana) about [TOPIC].
 
+Context: [ADDITIONAL INFORMATION ABOUT THE TOPIC - e.g., recent law changes, specific angles to cover, client notes, or relevant details]
 Target keyword: [PRIMARY KEYWORD]
 Secondary keywords: [SECONDARY KEYWORDS]
-Word count: [800-1500 or specify]
+Word count: [1800-2000 or specify]
 
 Follow all rules in CLAUDE.md. Specifically:
 - No contractions, no em dashes, no cliche phrases
@@ -37,9 +38,10 @@ Deliver the following:
 ```
 Write a blog post for Ikerd Law Firm (Lafayette, Louisiana) about what to do after being charged with a DWI in Louisiana.
 
+Context: Louisiana recently updated DWI penalties for repeat offenders. Focus on what someone should do in the first 24-48 hours after an arrest.
 Target keyword: DWI lawyer Lafayette Louisiana
 Secondary keywords: Louisiana DWI penalties, first offense DWI Louisiana, DWI defense Lafayette
-Word count: 1200
+Word count: 1800
 
 Follow all rules in CLAUDE.md...
 ```

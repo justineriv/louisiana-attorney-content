@@ -9,6 +9,7 @@ Use this prompt to generate a service or practice area page for Ikerd Law Firm.
 ```
 Write a service page for Ikerd Law Firm (Lafayette, Louisiana) about [PRACTICE AREA].
 
+Context: [ADDITIONAL INFORMATION ABOUT THE TOPIC - e.g., recent law changes, specific angles to cover, client notes, or relevant details]
 Target keyword: [PRIMARY KEYWORD]
 Secondary keywords: [SECONDARY KEYWORDS]
 
@@ -38,6 +39,7 @@ Deliver the following:
 ```
 Write a service page for Ikerd Law Firm (Lafayette, Louisiana) about expungement of criminal records in Louisiana.
 
+Context: Louisiana expanded expungement eligibility in recent legislative sessions. Highlight who qualifies and the step-by-step process.
 Target keyword: expungement lawyer Lafayette Louisiana
 Secondary keywords: clear criminal record Louisiana, expungement eligibility Louisiana, criminal record expungement process
 

@@ -9,6 +9,7 @@ Use this prompt to generate an FAQ section for Ikerd Law Firm.
 ```
 Write an FAQ section for Ikerd Law Firm (Lafayette, Louisiana) about [TOPIC/PRACTICE AREA].
 
+Context: [ADDITIONAL INFORMATION ABOUT THE TOPIC - e.g., recent law changes, specific angles to cover, client notes, or relevant details]
 Target keyword: [PRIMARY KEYWORD]
 Number of questions: [5-15 or specify]
 
@@ -35,6 +36,7 @@ Deliver the following:
 ```
 Write an FAQ section for Ikerd Law Firm (Lafayette, Louisiana) about drug charges in Louisiana.
 
+Context: Many clients ask about the difference between possession and distribution charges. Cover both misdemeanor and felony drug offenses.
 Target keyword: drug charges lawyer Lafayette Louisiana
 Number of questions: 10
 

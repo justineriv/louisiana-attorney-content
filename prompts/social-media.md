@@ -9,6 +9,7 @@ Use this prompt to generate social media content for Ikerd Law Firm.
 ```
 Write social media content for Ikerd Law Firm (Lafayette, Louisiana) about [TOPIC].
 
+Context: [ADDITIONAL INFORMATION ABOUT THE TOPIC - e.g., recent law changes, specific angles to cover, client notes, or relevant details]
 Platform: [Facebook / Instagram / LinkedIn / X / specify]
 Format: [single post / carousel / series of posts]
 
@@ -33,6 +34,7 @@ Deliver the following:
 ```
 Write social media content for Ikerd Law Firm (Lafayette, Louisiana) about the importance of hiring a lawyer after a car accident.
 
+Context: Emphasize that insurance companies often contact accident victims quickly and that speaking to an attorney first can protect their rights.
 Platform: Facebook
 Format: single post
 

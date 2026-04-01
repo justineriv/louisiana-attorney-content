@@ -11,7 +11,7 @@ Reusable rules and prompt templates for creating legal content for **Ikerd Law F
 
 | Template | Use For |
 |----------|---------|
-| [Blog Post](prompts/blog-post.md) | Blog articles (800-1500 words) |
+| [Blog Post](prompts/blog-post.md) | Blog articles (1800-2000 words) |
 | [Service Page](prompts/service-page.md) | Practice area and service pages |
 | [FAQ Page](prompts/faq-page.md) | Frequently asked questions sections |
 | [Social Media](prompts/social-media.md) | Facebook, Instagram, LinkedIn, X posts |

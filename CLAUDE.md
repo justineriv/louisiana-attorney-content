@@ -100,7 +100,7 @@ All content must be structured to maximize visibility in search results:
 When creating content, follow these type-specific guidelines:
 
 ### Blog Posts
-- 800-1500 words unless otherwise specified
+- 1800-2000 words unless otherwise specified
 - Include a compelling title with the primary keyword
 - Open with a hook that addresses the reader's concern directly
 - Include at least 3 internal links to related ikerdlaw.com pages
