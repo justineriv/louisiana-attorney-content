@@ -13,6 +13,8 @@ Context: [ADDITIONAL INFORMATION ABOUT THE TOPIC - e.g., recent law changes, spe
 Platform: [Facebook / Instagram / LinkedIn / X / specify]
 Format: [single post / carousel / series of posts]
 
+Before writing, determine the best hashtags and keywords for this topic based on the platform and relevance to Lafayette, Louisiana.
+
 Follow all rules in CLAUDE.md. Specifically:
 - No contractions, no em dashes, no cliche phrases
 - No outcome guarantees
@@ -21,7 +23,7 @@ Follow all rules in CLAUDE.md. Specifically:
 
 Deliver the following:
 1. Post text with appropriate length for the platform
-2. Suggested hashtags (5-10 relevant hashtags)
+2. Relevant hashtags (5-10)
 3. Suggested image description or visual concept
 4. Alt text for the suggested image
 5. A call to action directing to ikerdlaw.com or to contact the firm
