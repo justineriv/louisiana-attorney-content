@@ -29,7 +29,7 @@ Deliver the following:
 6. JSON-LD LegalService schema markup for this specific service
 7. JSON-LD LocalBusiness (LegalService) schema for Ikerd Law Firm in Lafayette, LA (as defined in CLAUDE.md)
 8. Internal links to related practice area pages on ikerdlaw.com
-9. Google CID link in the contact/CTA section: https://www.google.com/maps?cid=[IKERD_LAW_CID_NUMBER] (as a "View on Google Maps" hyperlink)
+9. Google CID link in the contact/CTA section: https://www.google.com/maps?cid=5998055786498434610 (as a "View on Google Maps" hyperlink)
 10. A clear call to action with contact information for Ikerd Law Firm
 11. Include the standard disclaimer at the end
 ```

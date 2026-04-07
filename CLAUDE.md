@@ -80,9 +80,9 @@ The top disclaimer (after H1) ensures visitors see it before reading any legal i
 - Use location-specific context (Lafayette Parish, Acadiana, specific local courts) to strengthen local relevance.
 
 ### Google CID Link
-- Include the Ikerd Law Firm Google Business Profile CID link in all web content (service pages, blog posts, FAQ pages): `https://www.google.com/maps?cid=[IKERD_LAW_CID_NUMBER]`
+- Include the Ikerd Law Firm Google Business Profile CID link in all web content (service pages, blog posts, FAQ pages): `https://www.google.com/maps?cid=5998055786498434610`
 - Place the CID link in the contact/CTA section of every page, typically as a "Find Us on Google Maps" or "View on Google Maps" hyperlink.
-- Replace `[IKERD_LAW_CID_NUMBER]` with the actual CID once obtained from Google Business Profile.
+- Replace `5998055786498434610` with the actual CID once obtained from Google Business Profile.
 
 ### Local Business Schema
 - Every piece of web content (service pages, blog posts, FAQ pages) must include a LocalBusiness JSON-LD schema in addition to any content-type-specific schema (Article, FAQPage, LegalService).
@@ -122,11 +122,11 @@ The top disclaimer (after H1) ensures visitors see it before reading any legal i
     "name": "Chad Ikerd"
   },
   "sameAs": [
-    "https://www.google.com/maps?cid=[IKERD_LAW_CID_NUMBER]"
+    "https://www.google.com/maps?cid=5998055786498434610"
   ]
 }
 ```
-- Replace `[IKERD_LAW_CID_NUMBER]` with the actual CID once obtained from Google Business Profile. All other values are finalized.
+- Replace `5998055786498434610` with the actual CID once obtained from Google Business Profile. All other values are finalized.
 
 ### Keyword Strategy
 - Target keywords should be determined by the specific topic of each piece of content.

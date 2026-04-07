@@ -28,7 +28,7 @@ Deliver the following:
 4. Meta title (under 60 characters)
 5. Meta description (150-160 characters with primary keyword and CTA)
 6. Internal links to related practice area pages on ikerdlaw.com within answers
-7. Google CID link in the contact/CTA section: https://www.google.com/maps?cid=[IKERD_LAW_CID_NUMBER] (as a "View on Google Maps" hyperlink)
+7. Google CID link in the contact/CTA section: https://www.google.com/maps?cid=5998055786498434610 (as a "View on Google Maps" hyperlink)
 8. Include the standard disclaimer at the end
 ```
 
