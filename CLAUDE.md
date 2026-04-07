@@ -95,19 +95,19 @@ The top disclaimer (after H1) ensures visitors see it before reading any legal i
   "name": "Ikerd Law Firm",
   "description": "Criminal defense and personal injury attorney in Lafayette, Louisiana.",
   "url": "https://www.ikerdlaw.com",
-  "telephone": "[PHONE NUMBER]",
+  "telephone": "(337) 366-8994",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "[STREET ADDRESS]",
+    "streetAddress": "600 Jefferson St Suite 903",
     "addressLocality": "Lafayette",
     "addressRegion": "LA",
-    "postalCode": "[ZIP CODE]",
+    "postalCode": "70501",
     "addressCountry": "US"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": "[LATITUDE]",
-    "longitude": "[LONGITUDE]"
+    "latitude": "30.22355409765869",
+    "longitude": "-92.01913174907314"
   },
   "areaServed": {
     "@type": "City",
@@ -126,7 +126,7 @@ The top disclaimer (after H1) ensures visitors see it before reading any legal i
   ]
 }
 ```
-- Replace all bracketed placeholder values with actual business details.
+- Replace `[IKERD_LAW_CID_NUMBER]` with the actual CID once obtained from Google Business Profile. All other values are finalized.
 
 ### Keyword Strategy
 - Target keywords should be determined by the specific topic of each piece of content.
