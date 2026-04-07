@@ -27,8 +27,10 @@ Deliver the following:
 3. Meta description (150-160 characters with primary keyword and CTA)
 4. Suggested alt text for any images referenced
 5. JSON-LD Article schema markup
-6. List of internal links to include (pointing to relevant ikerdlaw.com pages)
-7. Include the standard disclaimer at the end
+6. JSON-LD LocalBusiness (LegalService) schema for Ikerd Law Firm in Lafayette, LA (as defined in CLAUDE.md)
+7. List of internal links to include (pointing to relevant ikerdlaw.com pages)
+8. Google CID link in the contact/CTA section: https://www.google.com/maps?cid=[IKERD_LAW_CID_NUMBER] (as a "View on Google Maps" hyperlink)
+9. Include the standard disclaimer at the end
 ```
 
 ---

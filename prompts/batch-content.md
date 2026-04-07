@@ -33,7 +33,9 @@ For each piece, deliver:
 - The full content with proper header structure
 - Meta title (under 60 characters)
 - Meta description (150-160 characters with primary keyword and CTA)
-- Schema markup (Article, FAQPage, or LegalService as appropriate)
+- Content-type schema markup (Article, FAQPage, or LegalService as appropriate)
+- LocalBusiness (LegalService) schema for Ikerd Law Firm in Lafayette, LA (as defined in CLAUDE.md)
+- Google CID link in the contact/CTA section: https://www.google.com/maps?cid=[IKERD_LAW_CID_NUMBER]
 - Suggested alt text for any images
 - Internal links to relevant ikerdlaw.com pages
 - Standard disclaimer

@@ -27,6 +27,7 @@ Deliver the following:
 3. Suggested image description or visual concept
 4. Alt text for the suggested image
 5. A call to action directing to ikerdlaw.com or to contact the firm
+6. Include the Google CID link where appropriate (Google Maps link for "Find us" posts): https://www.google.com/maps?cid=[IKERD_LAW_CID_NUMBER]
 ```
 
 ---

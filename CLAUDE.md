@@ -77,6 +77,55 @@ Every piece of content must include a disclaimer. Use this standard disclaimer o
 - Include Lafayette and surrounding Acadiana region references naturally in content where appropriate.
 - Use location-specific context (Lafayette Parish, Acadiana, specific local courts) to strengthen local relevance.
 
+### Google CID Link
+- Include the Ikerd Law Firm Google Business Profile CID link in all web content (service pages, blog posts, FAQ pages): `https://www.google.com/maps?cid=[IKERD_LAW_CID_NUMBER]`
+- Place the CID link in the contact/CTA section of every page, typically as a "Find Us on Google Maps" or "View on Google Maps" hyperlink.
+- Replace `[IKERD_LAW_CID_NUMBER]` with the actual CID once obtained from Google Business Profile.
+
+### Local Business Schema
+- Every piece of web content (service pages, blog posts, FAQ pages) must include a LocalBusiness JSON-LD schema in addition to any content-type-specific schema (Article, FAQPage, LegalService).
+- Use this base LocalBusiness schema on all pages:
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Ikerd Law Firm",
+  "description": "Criminal defense and personal injury attorney in Lafayette, Louisiana.",
+  "url": "https://www.ikerdlaw.com",
+  "telephone": "[PHONE NUMBER]",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "[STREET ADDRESS]",
+    "addressLocality": "Lafayette",
+    "addressRegion": "LA",
+    "postalCode": "[ZIP CODE]",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "[LATITUDE]",
+    "longitude": "[LONGITUDE]"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Lafayette",
+    "containedInPlace": {
+      "@type": "State",
+      "name": "Louisiana"
+    }
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Chad Ikerd"
+  },
+  "sameAs": [
+    "https://www.google.com/maps?cid=[IKERD_LAW_CID_NUMBER]"
+  ]
+}
+```
+- Replace all bracketed placeholder values with actual business details.
+
 ### Keyword Strategy
 - Target keywords should be determined by the specific topic of each piece of content.
 - Include primary and secondary keywords naturally. Do not keyword-stuff.
@@ -86,7 +135,7 @@ Every piece of content must include a disclaimer. Use this standard disclaimer o
 All content must be structured to maximize visibility in search results:
 
 - **AI Overview optimization:** Write clear, direct answers to common questions early in the content. Use concise paragraph summaries that AI can extract.
-- **Schema markup:** Include appropriate JSON-LD structured data with every piece of content (Article, FAQPage, LegalService, Attorney, LocalBusiness as appropriate).
+- **Schema markup:** Include appropriate JSON-LD structured data with every piece of content. Every page must include the LocalBusiness (LegalService) schema defined above, plus content-type-specific schema (Article for blogs, FAQPage for FAQs, LegalService/Service for service pages).
 - **Alt text:** Provide descriptive, keyword-relevant alt text for all images.
 - **Internal linking:** Every piece of content must include internal links to related practice area pages and service pages on ikerdlaw.com.
 - **Header hierarchy:** Use proper H1, H2, H3 structure with keyword-rich headers.

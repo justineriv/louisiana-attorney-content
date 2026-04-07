@@ -24,10 +24,12 @@ Follow all rules in CLAUDE.md. Specifically:
 Deliver the following:
 1. FAQ content with clear question-and-answer format
 2. JSON-LD FAQPage schema markup for all Q&A pairs
-3. Meta title (under 60 characters)
-4. Meta description (150-160 characters with primary keyword and CTA)
-5. Internal links to related practice area pages on ikerdlaw.com within answers
-6. Include the standard disclaimer at the end
+3. JSON-LD LocalBusiness (LegalService) schema for Ikerd Law Firm in Lafayette, LA (as defined in CLAUDE.md)
+4. Meta title (under 60 characters)
+5. Meta description (150-160 characters with primary keyword and CTA)
+6. Internal links to related practice area pages on ikerdlaw.com within answers
+7. Google CID link in the contact/CTA section: https://www.google.com/maps?cid=[IKERD_LAW_CID_NUMBER] (as a "View on Google Maps" hyperlink)
+8. Include the standard disclaimer at the end
 ```
 
 ---
