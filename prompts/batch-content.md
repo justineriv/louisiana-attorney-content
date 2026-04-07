@@ -9,6 +9,8 @@ Use this prompt to generate multiple pieces of content for Ikerd Law Firm in one
 ```
 Generate the following content for Ikerd Law Firm (Lafayette, Louisiana). Follow all rules in CLAUDE.md for every piece.
 
+IMPORTANT: Before writing, check for recent legislative amendments (especially those effective August 1, 2025). Include all Mandatory Legal Elements from CLAUDE.md that apply to each piece (damages cap, prescriptive periods, Medical Review Panel composition, LMMA expanded scope, wrongful death distinctions, comparative fault, etc.). Complete the Pre-Publication Verification Checklist for each piece before delivering.
+
 For each item below, automatically research and determine the best primary keyword and 3-5 secondary keywords. List the chosen keywords before each piece of content.
 
 ---

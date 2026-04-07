@@ -19,7 +19,10 @@ Follow all rules in CLAUDE.md. Specifically:
 - No outcome guarantees
 - Professional and compassionate tone
 - Verify all Louisiana statutes and legal information for accuracy
+- Check for recent legislative amendments (especially those effective August 1, 2025) before writing
 - Write questions in the exact language a potential client would use when searching online
+- Include all Mandatory Legal Elements from CLAUDE.md that apply to this practice area (damages cap, prescriptive periods, Medical Review Panel, LMMA expanded scope, wrongful death distinctions, comparative fault, etc.)
+- Complete the Pre-Publication Verification Checklist in CLAUDE.md before delivering
 
 Deliver the following:
 1. FAQ content with clear question-and-answer format

@@ -18,7 +18,10 @@ Follow all rules in CLAUDE.md. Specifically:
 - No outcome guarantees
 - Professional and compassionate tone
 - Verify all Louisiana statutes, penalties, and legal processes for accuracy
+- Check for recent legislative amendments (especially those effective August 1, 2025) before writing
 - Target Lafayette, Louisiana for local SEO
+- Include all Mandatory Legal Elements from CLAUDE.md that apply to this practice area (damages cap, prescriptive periods, Medical Review Panel, LMMA expanded scope, wrongful death distinctions, comparative fault, etc.)
+- Complete the Pre-Publication Verification Checklist in CLAUDE.md before delivering
 
 Deliver the following:
 1. Full page content with proper H1/H2/H3 header structure

@@ -62,13 +62,46 @@ The top disclaimer (after H1) ensures visitors see it before reading any legal i
 
 ## Research and Accuracy
 
-**THIS IS CRITICAL.** All content must be verified for accuracy before delivery.
+**THIS IS CRITICAL.** All content must be verified for accuracy before delivery. Inaccurate legal information can mislead potential clients, damage the firm's credibility, and expose the client and content team to legal liability.
 
+### General Verification Rules
 - Always verify that statutes, laws, and legal codes cited are current and have not been amended or repealed.
 - Verify all dates, case references, penalties, and sentencing ranges against current Louisiana law.
 - When referencing specific statutes (e.g., La. R.S. 14:98 for DWI), confirm the statute number and its current text.
 - If information cannot be verified with confidence, flag it clearly for human review rather than publishing uncertain content.
-- The client and the content team can face legal liability for inaccurate legal information published on the website.
+- Check for recent legislative sessions (especially effective dates of August 1 each year) that may have amended relevant statutes.
+
+### Mandatory Legal Elements — Must Be Included When Applicable
+
+The following legal elements MUST be addressed in any content where they are relevant. Omitting them is a material gap that could mislead readers.
+
+**Medical Malpractice Content Must Include:**
+1. **$500,000 statutory damages cap** (La. R.S. 40:1231.2): Total recovery for all malpractice claims for injuries to or death of a patient is capped at $500,000 plus interest and costs. Individual qualified health care providers are not liable for more than $100,000; the excess is paid from the Patient Compensation Fund (PCF). Future medical care and related benefits paid through the PCF are NOT subject to the cap. This is one of the most consequential aspects of Louisiana malpractice law for clients and must never be omitted.
+2. **Medical Review Panel requirement** (La. R.S. 40:1231.8): Claims must be submitted to a panel before filing suit. The panel consists of three licensed **health care providers** (not "physicians") who hold unlimited licenses to practice their profession in Louisiana, plus one attorney chairperson.
+3. **Prescriptive period** (La. R.S. 9:5628): One year from discovery, three-year absolute limit from date of act.
+4. **LMMA expanded scope (effective August 1, 2025)**: Act 342 (SB 134) broadened the definitions of "health care" and "malpractice" under La. R.S. 40:1231.1 to include administrative and managerial actions necessary for delivering medical care. Hospital equipment failures, staffing decisions, and custodial/administrative actions now fall within the LMMA and are subject to the Medical Review Panel and $500,000 cap.
+5. **Wrongful death prescriptive periods (effective August 1, 2025)**: For medical malpractice wrongful death, La. C.C. Art. 2315.2(F) provides one year from the date of death. For non-malpractice wrongful death, Art. 2315.2(B) provides one year from death or two years from injury sustained, whichever is longer. Always distinguish between these when discussing wrongful death.
+
+**Personal Injury Content Must Include:**
+1. **Prescriptive period** (La. C.C. Art. 3492): One year from the date of injury for general personal injury.
+2. **Comparative fault** (La. C.C. Art. 2323): Louisiana follows a pure comparative fault system; a plaintiff's recovery is reduced by their percentage of fault.
+3. **Relevant damages categories**: Medical expenses (past and future), lost wages, loss of earning capacity, pain and suffering, mental anguish, loss of enjoyment of life.
+
+**Criminal Defense Content Must Include:**
+1. Accurate statutory citations for the specific offense discussed.
+2. Current penalty ranges (fines, imprisonment, probation) verified against current Louisiana Revised Statutes.
+3. Any recent legislative amendments that changed penalties or definitions.
+
+### Pre-Publication Verification Checklist
+Before delivering any content, verify:
+- [ ] All statute numbers are correct and current
+- [ ] All penalty ranges and damages caps reflect current law
+- [ ] All prescriptive/limitation periods are accurate
+- [ ] Recent legislative amendments (especially those effective August 1, 2025) are reflected
+- [ ] The Medical Review Panel is described correctly (health care providers, not physicians)
+- [ ] The $500,000 damages cap and PCF exception are mentioned in all medical malpractice content
+- [ ] No outcome guarantees are implied
+- [ ] All claims about legal processes match current procedure
 
 ---
 
