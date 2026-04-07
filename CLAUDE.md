@@ -47,9 +47,11 @@ Website: https://www.ikerdlaw.com
 - **No guarantees of outcomes.** Never promise or imply that hiring Ikerd Law Firm will result in a specific legal outcome (dismissal, reduced sentence, settlement amount, etc.).
 
 ### Disclaimer
-Every piece of content must include a disclaimer. Use this standard disclaimer or a contextually appropriate variation:
+Every piece of content must include a disclaimer **immediately after the H1 tag/header** at the top of the page, plus at the end of the content. Use this standard disclaimer or a contextually appropriate variation:
 
 > **Disclaimer:** This content is for informational purposes only and does not constitute legal advice. Every case is unique, and outcomes depend on individual circumstances. Contact Ikerd Law Firm for a consultation to discuss your specific situation.
+
+The top disclaimer (after H1) ensures visitors see it before reading any legal information. The end disclaimer reinforces it after reading.
 
 ### Citations and Links
 - **Never link to competitor law firm websites.** Do not use competitor sites as citation sources.
