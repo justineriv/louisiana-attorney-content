@@ -34,7 +34,8 @@ Deliver the following:
 8. Internal links to related practice area pages on ikerdlaw.com
 9. Google CID link in the contact/CTA section: https://www.google.com/maps?cid=5998055786498434610 (as a "View on Google Maps" hyperlink)
 10. A clear call to action with contact information for Ikerd Law Firm
-11. Include the standard disclaimer at the end
+11. Include the standard disclaimer immediately after the H1 header and again at the end of the content
+12. Completed Verification Report (per CLAUDE.md Verification Gate) appended at the end of the output file — every legal claim traced to its source statute and confirmed current
 ```
 
 ---

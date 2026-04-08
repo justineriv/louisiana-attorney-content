@@ -37,7 +37,7 @@ Deliver the following:
 8. List of internal links to include (pointing to relevant ikerdlaw.com pages)
 9. Google CID link in the contact/CTA section: https://www.google.com/maps?cid=5998055786498434610 (as a "View on Google Maps" hyperlink)
 10. Include the standard disclaimer after the H1 and at the end
-11. Completed verification checklist confirming all legal elements are accurate and current
+11. Completed Verification Report (per CLAUDE.md Verification Gate) appended at the end of the output file — every legal claim traced to its source statute and confirmed current
 ```
 
 ---

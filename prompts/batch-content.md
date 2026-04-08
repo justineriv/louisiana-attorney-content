@@ -48,7 +48,7 @@ Save each piece of content as a separate .md file in the output/ folder using th
 - FAQs: output/faq-[short-topic-slug].md
 - Social Media: output/social-[short-topic-slug].md
 
-Each .md file should contain everything for that piece: keywords, full content, meta title, meta description, schema markup, alt text suggestions, internal links, and disclaimer.
+Each .md file should contain everything for that piece: keywords, full content, meta title, meta description, schema markup, alt text suggestions, internal links, disclaimer, and a completed Verification Report (per CLAUDE.md Verification Gate) with every legal claim traced to its source statute and confirmed current.
 ```
 
 ---

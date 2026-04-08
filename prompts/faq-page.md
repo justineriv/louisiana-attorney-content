@@ -32,7 +32,8 @@ Deliver the following:
 5. Meta description (150-160 characters with primary keyword and CTA)
 6. Internal links to related practice area pages on ikerdlaw.com within answers
 7. Google CID link in the contact/CTA section: https://www.google.com/maps?cid=5998055786498434610 (as a "View on Google Maps" hyperlink)
-8. Include the standard disclaimer at the end
+8. Include the standard disclaimer immediately after the H1 header and again at the end of the content
+9. Completed Verification Report (per CLAUDE.md Verification Gate) appended at the end of the output file — every legal claim traced to its source statute and confirmed current
 ```
 
 ---

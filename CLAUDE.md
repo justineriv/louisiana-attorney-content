@@ -6,6 +6,17 @@ Website: https://www.ikerdlaw.com
 
 ---
 
+## Table of Contents
+
+1. [Practice Areas](#practice-areas)
+2. [Writing Rules](#writing-rules)
+3. [Research and Accuracy](#research-and-accuracy)
+4. [Verification Gate — Mandatory Before Delivery](#verification-gate--mandatory-before-delivery)
+5. [SEO and Search Optimization](#seo-and-search-optimization)
+6. [Content Types](#content-types)
+
+---
+
 ## Practice Areas
 
 ### Criminal Defense
@@ -105,6 +116,77 @@ Before delivering any content, verify:
 
 ---
 
+## Verification Gate — Mandatory Before Delivery
+
+**THIS IS A HARD GATE. NO CONTENT LEAVES THIS REPOSITORY WITHOUT A COMPLETED VERIFICATION REPORT.**
+
+All content produced in this repository is legally sensitive. The client is an attorney. False or outdated legal claims can result in:
+- **Lawsuits** against the firm and the content team
+- **Bar complaints** and reputational damage to a practicing attorney
+- **Client harm** if potential clients act on incorrect legal information
+
+### How the Gate Works
+
+Every piece of content must include a **Verification Report** appended at the end of the output file. Content without a completed Verification Report is considered **undeliverable** and must not be sent to the client or published.
+
+### Verification Report Format
+
+After the content, append the following completed report:
+
+```
+---
+
+## VERIFICATION REPORT
+
+**Content:** [Title of the piece]
+**Date verified:** [YYYY-MM-DD]
+**Practice area:** [Criminal Defense / Personal Injury / Medical Malpractice / General]
+
+### Legal Claims Verified
+
+| # | Claim Made in Content | Source / Statute | Verified Current? | Notes |
+|---|----------------------|-----------------|-------------------|-------|
+| 1 | [e.g., "DWI first offense carries up to 6 months in jail"] | La. R.S. 14:98(B) | Yes / No / Flagged | [any notes] |
+| 2 | ... | ... | ... | ... |
+
+### Statutes Cited
+
+| Statute | Referenced As | Current Text Confirmed? |
+|---------|--------------|------------------------|
+| La. R.S. 14:98 | DWI penalties | Yes / No |
+| ... | ... | ... |
+
+### Mandatory Legal Elements Check
+
+- [ ] All required elements for this practice area (per CLAUDE.md) are included
+- [ ] Damages cap included (if medical malpractice)
+- [ ] Prescriptive periods included (if applicable)
+- [ ] Medical Review Panel correctly described (if medical malpractice)
+- [ ] LMMA 2025 expanded scope addressed (if medical malpractice)
+- [ ] Comparative fault included (if personal injury)
+- [ ] Penalty ranges accurate (if criminal defense)
+
+### Flagged Items (Requires Human Review)
+
+[List anything that could not be verified with confidence. If none, write "None — all claims verified."]
+
+### Verdict
+
+- [ ] **PASS** — All legal claims verified, all mandatory elements included. Content is ready for delivery.
+- [ ] **FAIL** — One or more items flagged. Content must not be delivered until flagged items are resolved.
+```
+
+### Rules for the Verification Gate
+
+1. **Every legal claim must be traced to a source.** If the content says "the penalty is up to 5 years," the report must cite the specific statute and confirm it is current.
+2. **"I could not verify" is an acceptable answer** — but it must be flagged, not silently ignored. Flag it in the report and let a human resolve it.
+3. **Verification happens automatically.** It is part of the content generation workflow. It is not a separate step the user must request.
+4. **The report travels with the content.** It is included in the output .md file so the content team can review it before publishing.
+5. **Social media posts are not exempt.** Any post that references a law, penalty, statute, right, or legal process must be verified.
+6. **When in doubt, flag it.** A flagged item reviewed by a human is always safer than an unverified claim published to the public.
+
+---
+
 ## SEO and Search Optimization
 
 ### Location Targeting
@@ -115,7 +197,6 @@ Before delivering any content, verify:
 ### Google CID Link
 - Include the Ikerd Law Firm Google Business Profile CID link in all web content (service pages, blog posts, FAQ pages): `https://www.google.com/maps?cid=5998055786498434610`
 - Place the CID link in the contact/CTA section of every page, typically as a "Find Us on Google Maps" or "View on Google Maps" hyperlink.
-- Replace `5998055786498434610` with the actual CID once obtained from Google Business Profile.
 
 ### Local Business Schema
 - Every piece of web content (service pages, blog posts, FAQ pages) must include a LocalBusiness JSON-LD schema in addition to any content-type-specific schema (Article, FAQPage, LegalService).
@@ -159,7 +240,7 @@ Before delivering any content, verify:
   ]
 }
 ```
-- Replace `5998055786498434610` with the actual CID once obtained from Google Business Profile. All other values are finalized.
+- All values including the CID are finalized.
 
 ### Keyword Strategy
 - Target keywords should be determined by the specific topic of each piece of content.

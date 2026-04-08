@@ -20,6 +20,7 @@ Follow all rules in CLAUDE.md. Specifically:
 - No outcome guarantees
 - Professional and compassionate tone, slightly more conversational for social
 - Verify all Louisiana legal information for accuracy
+- If the post references any law, penalty, statute, right, or legal process, complete the Pre-Publication Verification Checklist in CLAUDE.md before delivering
 
 Deliver the following:
 1. Post text with appropriate length for the platform
@@ -28,6 +29,7 @@ Deliver the following:
 4. Alt text for the suggested image
 5. A call to action directing to ikerdlaw.com or to contact the firm
 6. Include the Google CID link where appropriate (Google Maps link for "Find us" posts): https://www.google.com/maps?cid=5998055786498434610
+7. If any legal claims are made in the post, include a completed Verification Report (per CLAUDE.md Verification Gate) with every claim traced to its source and confirmed current
 ```
 
 ---
